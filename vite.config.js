@@ -6,4 +6,4 @@ export default defineConfig({
   plugins: [react()],
   base: '/ceerplannercustom/', // Add this line for the 'test2' repository
 })
-//hello
+//hell
