@@ -14,3 +14,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## In Browser Memory
+
+In-browser memory stores data temporarily within a user's web browser, enabling applications to retain information during or across sessions. It includes mechanisms like JavaScript variables, sessionStorage, localStorage, and IndexedDB. This improves performance, supports offline functionality, preserves user preferences, and reduces server requests without requiring an active internet connection.
